@@ -17,3 +17,5 @@ This is a new line
 This is another line
 
 This is for test git diff
+
+This is for testing git diff in staging area
