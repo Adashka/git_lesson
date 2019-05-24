@@ -11,3 +11,7 @@ Git is a version control system that prevents us from having the "final doc" pro
 Git takes snapshots of the entire repository for us to revert back to.
 
 New change to test
+
+This is a new line
+
+This is another line
