@@ -21,3 +21,5 @@ This is for test git diff
 This is for testing git diff in staging area
 
 This is for test HEAD reset
+
+This change has been made in directly in Github
